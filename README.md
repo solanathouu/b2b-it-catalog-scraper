@@ -76,7 +76,7 @@ TD Synnex InTouch API
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/solanathouu/projet-scrapping.git
+git clone https://github.com/solanathouu/b2b-it-catalog-scraper.git
 cd projet-scrapping
 ```
 
